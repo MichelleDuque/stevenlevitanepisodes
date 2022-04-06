@@ -1,5 +1,6 @@
 /* Import Google Font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 *{
   margin: 0;
   padding: 0;
@@ -49,7 +50,7 @@ header, .content :where(i, p, span){
 .quote-area .quote{
   font-size: 22px;
   text-align: center;
-  word-break: break-all;
+  white-space: pre-line;
 }
 .content .author{
   display: flex;
