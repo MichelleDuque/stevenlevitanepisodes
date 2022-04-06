@@ -50,7 +50,7 @@ header, .content :where(i, p, span){
 .quote-area .quote{
   font-size: 22px;
   text-align: center;
-  white-space: pre-line;
+  white-space: normal;
 }
 .content .author{
   display: flex;
